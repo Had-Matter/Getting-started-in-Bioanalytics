@@ -1,2 +1,2 @@
 # Getting-started-in-Biology
-Repository of well-written Tutorials, Librarys, Documentations connected to biology and connected topics
+Repository of well-written Websides, Tutorials, Librarys and Documentations of biology and connected topics
