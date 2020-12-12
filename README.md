@@ -39,7 +39,7 @@ Science-Wissenssammlung
 
 #### Textverarbeitung
 Wer ausreichend unter Word und seinen Derivaten gelitten und keine Scheu vor neuen Sachen hat, sollte sich unbedingt Latex ansehen.
-Hier bekommt ihr ne halb-automatisierte Formatierung eures kompletten Textes. Am Textanfang wird einmal alles einmal festgelegt, wie z.B. Kopf/Fußzeilen, Seiten-Nummerierung, Tabellen und Abbildungsanordnung und wird dann für alle Objekte übernommen. Spezielle Einstellungen für einzelne Elemente können aber natürlich immer noch direkt vor Ort vorgenommen werden, ohne die anderen zu beeinflussen. Auch Referenzen zu Tabellen und Abbildungen sind deutlich komfortabler zu machen als in z.B. Word.
+Hier bekommt ihr ne halb-automatisierte Formatierung eures kompletten Textes. Am Textanfang wird alles einmal festgelegt, wie z.B. Kopf/Fußzeilen, Seiten-Nummerierung, Tabellen und Abbildungsanordnung und wird dann für alle Objekte übernommen. Spezielle Einstellungen für einzelne Elemente können aber natürlich immer noch direkt vor Ort vorgenommen werden, ohne die anderen zu beeinflussen. Auch Referenzen zu Tabellen und Abbildungen sind deutlich komfortabler zu machen als in z.B. Word.
 Steht das Template ersteinmal für eine Formatierung, kann diese konstant für alle weiteren Texte übernommen werden. 
 Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf Abb. oder Tabellen bei großen Texten.
 
@@ -65,7 +65,7 @@ Microsoft Office Online \\
 Für alle, denen sich bei dem Thema Informatik die Fußnägel hochrollen:
 Schlechte Nachricht: Ihr kommt nicht im Studium drum herum und besser im eigenen Tempo lernen als von halbgaren Folien mit Frustgarantie. 
 
-Aber: Es auch ist kein Hexenwerk! Und kleine Skripte von 10-20 Zeilen sind schnell geschrieben und können euch unglaublich viel Arbeit z.B. in Excel ersparen. Also los!
+Aber: Es ist auch kein Hexenwerk! Und kleine Skripte von 10-20 Zeilen sind schnell geschrieben und können euch unglaublich viel Arbeit z.B. in Excel ersparen. Also los!
 
 #### R-Programming
 
