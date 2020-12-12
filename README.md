@@ -1,5 +1,6 @@
 # Getting-started-in-Bioanalytics
 
+Hallo ich bin krass
 Willkommen zum inoffiziellen Bioanalytik-Repo zum Bachelor-Studiengang in Coburg.
 Hier findet ihr Tutorials eingeteilt nach unterschiedlichen Themengebieten und 
 Tips und Anmerkungen zu ein paar spezielleren Sachen in unserem Coburger Studiengang.
