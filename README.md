@@ -19,7 +19,7 @@ _kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiv
 
 1. Entspannt euch. Alles wird gut. Ihr schafft das!
 2. Ihr sitzt jetzt 3 Jahre lang im gleichen Boot. Rauft euch zusammen, tauscht euch aus und unterstützt andere. 
-3. Orientiert euch nicht an anderen. Allein, in Gruppen; morgens, mitten in der Nacht; zu Hause, in der Hochschule. Lernt und arbeitet in eurer Geschwindigkeit und eurem Stil. 
+3. Andere Studenten sind kein Maßstab. Allein, in Gruppen; morgens, mitten in der Nacht; zu Hause, in der Hochschule. Lernt und arbeitet in eurer Geschwindigkeit und eurem Stil. 
 4. Fangt früh an, die Folien aufzuarbeiten. Stumpf auswendig lernen wird für die meisten von euch nicht funktionieren, also müsst ihr es verstanden haben, um damit gedankliche Brücken bauen zu können. Und sowas kann Zeit kosten.
 5. Lernt Englisch, wenn ihr nicht gut darin seid. So könnt ihr auch abseits von schlechten Folien und den seltenen guten deutschen Büchern arbeiten.
 
@@ -51,7 +51,7 @@ Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erst
 Für alle, denen sich bei dem Thema Informatik die Fußnägel hochrollen:
 Schlechte Nachricht: Ihr kommt nicht im Studium drum herum und besser im eigenen Tempo lernen als von halbgaren Folien mit Frustgarantie. 
 
-Aber: Es auch ist kein Hexenwerk! Und kleine Skripte von 20-30 Zeilen können euch unglaublich viel Arbeit ersparen. Also los!
+Aber: Es auch ist kein Hexenwerk! Und kleine Skripte von 10-20 Zeilen sind schnell geschrieben und können euch unglaublich viel Arbeit z.B. in Excel ersparen. Also los!
 
 ##### R-Programming
 
