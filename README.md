@@ -21,7 +21,7 @@ _kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiv
 4. Fangt früh an, die Folien aufzuarbeiten. Jaaa. Das sagen sie alle. Und dummerweise haben sie auch recht damit. Stumpf auswendig lernen wird für die meisten von euch nicht funktionieren, also müsst ihr es verstanden haben, um damit gedankliche Brücken bauen zu können. Auch dies kann Zeit kosten, ist aber wertvoller für das weitere Studium. 
 5. Lernt Englisch, wenn ihr nicht gut darin seid. So könnt ihr auch abseits von schlechten Folien und den seltenen guten deutschen Büchern arbeiten.
 
-## Stundenplan erstellen
+### Stundenplan erstellen
 
 Den Stundenplan kann man auf Primuss erstellen. Dafür gehst du auf der Menüleiste auf "Mein Studium". Beim runterscrollen gibt es dann "Aufrufen von Mein Stundenplan".
 Auf der Seite gibst du dann deinen Studiengang an. Bei der Studiengruppe nimmt man das Semester. Danach kannst du die entsprechenden Kurse auswählen. Den Stundenplan kannst du dann jederzeit über Primuss abrufen oder ausdrucken.
