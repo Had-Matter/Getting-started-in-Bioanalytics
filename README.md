@@ -1,9 +1,8 @@
 # Getting-started-in-Bioanalytics
 
-Hallo ich bin krass
 Willkommen zum inoffiziellen Bioanalytik-Repo zum Bachelor-Studiengang in Coburg.
 Hier findet ihr Tutorials eingeteilt nach unterschiedlichen Themengebieten und 
-Tips und Anmerkungen zu ein paar spezielleren Sachen in unserem Coburger Studiengang.
+Tipps und Anmerkungen zu ein paar spezielleren Sachen in unserem Coburger Studiengang.
 
 Da es unmöglich ist, alle Themengebiete der Biologie und Analytik vollständig abzubilden, 
 werden hier nur Links und Programme angegeben, die ihr auch wirklich für das Studium in Coburg 
@@ -87,7 +86,7 @@ Hinweise in den Kits
 
 
 
-## Fachspezifsche Programme und Websites
+## Fachspezifische Programme und Websites
 ### Proteinanalyik 
 
 #### Strukturdatenbanken
