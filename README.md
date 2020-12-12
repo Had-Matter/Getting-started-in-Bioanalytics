@@ -18,7 +18,7 @@ _kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiv
 1. Entspannt euch. Alles wird gut. Ihr schafft das!
 2. Ihr sitzt jetzt 3 Jahre lang im gleichen Boot. Rauft euch zusammen, tauscht euch aus und unterstützt andere. 
 3. Andere Studenten sind kein Maßstab. Allein, in Gruppen; morgens, mitten in der Nacht; zu Hause, in der Hochschule. Lernt und arbeitet in eurer Geschwindigkeit und eurem Stil. 
-4. Fangt früh an, die Folien aufzuarbeiten. Jaaa. Das sagen sie alle. Und dummerweise haben sie auch recht damit Stumpf auswendig lernen wird für die meisten von euch nicht funktionieren, also müsst ihr es verstanden haben, um damit gedankliche Brücken bauen zu können. Und sowas kann Zeit kosten, welche in der Prüfungszeit bekanntlich knapp ist. 
+4. Fangt früh an, die Folien aufzuarbeiten. Jaaa. Das sagen sie alle. Und dummerweise haben sie auch recht damit. Stumpf auswendig lernen wird für die meisten von euch nicht funktionieren, also müsst ihr es verstanden haben, um damit gedankliche Brücken bauen zu können. Auch dies kann Zeit kosten, ist aber wertvoller für das weitere Studium. 
 5. Lernt Englisch, wenn ihr nicht gut darin seid. So könnt ihr auch abseits von schlechten Folien und den seltenen guten deutschen Büchern arbeiten.
 
 ## "Die Fehler reichen dieses Mal von witzig bis hin zu strafrechtlich relevant"
@@ -67,11 +67,27 @@ Schlechte Nachricht: Ihr kommt nicht im Studium drum herum und besser im eigenen
 
 Aber: Es auch ist kein Hexenwerk! Und kleine Skripte von 10-20 Zeilen sind schnell geschrieben und können euch unglaublich viel Arbeit z.B. in Excel ersparen. Also los!
 
+Kleine Anfänger-Tipps, die eigentlich für alle Programmiersprachen gelten:
+
+1. Es ist eine Sprache, die gesprochen (bzw. geschrieben) werden muss, um sie zu behalten; sonst verlernt man sie.
+2. Ein Computer ist geduldig. Spielt rum! Probiert Sachen aus! Notfalls könnt ihr immer noch alles wieder löschen und ein altes bewährtes Skript nehmen.
+3. Tut euch selbst einen Gefallen und dokumentiert euren Code. Was heute noch ein vollkommen logischer Aufbau ist, verliert bis übermorgen jeden Zusammenhang.
+4. Sehr wichig bei der Arbeit mit Datensätzen: Arbeitet niemals direkt an euren Rohdaten! Kopiert sie und schafft Backups! Eine gelöschter Datensatz ist schlecht, aber Datensatz, dessen Inhalt ihr nicht mehr vertrauen könnt, ist eine Qual!
+
+
+
 #### R-Programming
 
-STHDA
+Die Sprache "R" ist von Biologen für Biologen geschrieben worden. Mit ihr kann man zwar keine fanzy Spiele programmieren, aber sehr einfach große Datenmengen auswerten und unkompliziert wissenschaftlich valide Grafiken erstellen. Die genutzten, kleinen Zusatzprogramme, sog. "Packages" sind alle Open-Source und häufig auch sehr gut dokumentiert.
+Im folgenden Link findet ihr ein kurzes Video, in dem die Installation der Sprache "R" und dem Programm "RStudio" beschrieben wird. Das eine stellt die Syntax der Sprache bereit und im Studio bekommt ihr eine sehr gute Umgebung gestellt, um zu programmieren.
 
-https://bookdown.org/ndphillips/YaRrr/
+%Platzhalter YT-Link
+
+Wenn RStudio bei euch läuft und ihr noch so gar keine Berührung mit Programmierung usw. hatten, kann ich euch sehr das SWIRL-Package ans Herz legen. Hier werdet ihr mit interaktiven Übungen in die Sprache und ihrer Möglichketien eingeführt. Wenn ihr es nach der Anleitung installiert habt, startet ihr am besten gleich mit der allgemeinen Übung "R Programming". https://swirlstats.com/students.html
+
+Für alle, die lieber in Ruhe aus einem Dokument heraus lernen gibt es unter https://bookdown.org/ndphillips/YaRrr/ eine gute Einführung.
+
+Eine gute Quelle für Diagramme, Plots usw. ist eigentlich immer http://www.sthda.com/english/wiki/data-visualization. Hier findet ihr Code-Beispiele vom einfachen plot()-Befehl bis hin zur vollen Ladung vom Package "GGPlot2". Für eine umfangreichere Nutzung von R empfiehlt zur Datenauswertung das "Tidyvers", wozu ebenfalls STHDA Einführungen anbietet.
 
 #### Python
 
@@ -80,7 +96,7 @@ https://bookdown.org/ndphillips/YaRrr/
 #### Markdown
 
 Für alle, die sich hier beteiligen wollen, kann ich nur "Github" und die "Sprache" Markdown empfehlen.
-Ein kleines Cheat Sheet für dei Syntax findet sich unter folgendem Link: https://www.makeuseof.com/tag/printable-markdown-cheat-sheet/
+Ein kleines Cheat Sheet für die Syntax findet sich unter folgendem Link: https://www.makeuseof.com/tag/printable-markdown-cheat-sheet/
 
 # Laborpraktika
 
