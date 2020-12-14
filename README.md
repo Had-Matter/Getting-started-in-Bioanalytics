@@ -6,7 +6,9 @@ Da es unmöglich ist, alle Themengebiete der Biologie und Analytik vollständig 
 werden hier nur Links und Programme angegeben, die ihr auch wirklich für das Studium in Coburg 
 gebrauchen könnt oder Kontext zu den Vorlesungsinhalten bieten. 
 Bei fast allen ist der Übergang sowieso fließend und man kann fast immer 
-bereits einen Ausblick über die Studieninhalte hinaus erhalten. Falls ihr Anregungen, Kritik habt oder Ideen für weitere wichtige Punkte hat, könnt ihr uns gern über  "Issues" (oben in der Leiste) eine Nachricht schreiben. Demnächst werden wir auch eine Mail zu Verfügung stellen, über der ihr uns erreichen könnt.
+bereits einen Ausblick über die Studieninhalte hinaus erhalten. \
+
+Falls ihr Anregungen, Kritik oder Ideen für weitere wichtige Punkte habt, könnt ihr uns gern über  "Issues" (oben in der Leiste) eine Nachricht schreiben. Demnächst werden wir auch eine Mail zu Verfügung stellen, über der ihr uns erreichen könnt.
 
 _kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiven Eindrücken. Wir sind auch keine MAs der Hochschule Coburg, sondern selbst Studenten._
 
