@@ -1,4 +1,4 @@
-Willkommen zum inoffiziellen Bioanalytik-Repo zum Bachelor-Studiengang in Coburg.
+﻿Willkommen zum inoffiziellen Bioanalytik-Repo zum Bachelor-Studiengang in Coburg.
 Hier findet ihr Tutorials eingeteilt nach unterschiedlichen Themengebieten und 
 Tipps und Anmerkungen zu ein paar spezielleren Sachen in unserem Coburger Studiengang.
 
@@ -9,6 +9,8 @@ Bei fast allen ist der Übergang sowieso fließend und man kann fast immer
 bereits einen Ausblick über die Studieninhalte hinaus erhalten.
 
 _kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiven Eindrücken. Wir sind auch keine MAs der Hochschule Coburg, sondern selbst Studenten._
+
+Viel Spaß und Erfolg wünschen euch Sinco6 und Had-Matter.
 
 # Studium
 
@@ -34,13 +36,21 @@ Aber man muss sich ja die Arbeit nicht schwerer machen als es notwendig ist :)
 
 #### Recherche
 
-Wiki, Strukturdatenbanken, Lexika
+für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind nie zitierfähig!, stellen aber teilweise Links zu Papern zur Verfügung)
+der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick)
+für Analytik-(Methoden), Chemie, Biologie auf deutsch ganz klar: www.chemgapedia.de/
+ebenfalls Analytik-Methoden auf deutsch: https://www.medizinische-genetik.de/index.php?id=methoden
+für alles Zell- und Molekularbiologische auf englisch: www.nature.com/scitable/topics (immer up-to-date und sehr fundiert)
+als Kontextlieferant für alles Biologische  mit vielen Abbildungen und Fotos: https://www.proteinatlas.org/
 
-https://www.proteinatlas.org/
 
-DeepL-Übersetzer
+chem. Strukturen und deren Spektren:
 
-Science-Wissenssammlung
+https://webbook.nist.gov/chemistry/name-ser/
+https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi
+
+falls euch mal die (englischen) Worte fehlen: https://www.deepl.com/de/translator
+
 
 #### Textverarbeitung
 Wer ausreichend unter Word und seinen Derivaten gelitten und keine Scheu vor neuen Sachen hat, sollte sich unbedingt Latex ansehen.
@@ -51,8 +61,10 @@ Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf 
 #### Literaturprogramme
 Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erstellen von perfekt formatierten Querverweisen und Literaturverzeichnissen in allen großen Textverabeitungsprogrammen. Einfach die ISBN, DOI reinkopieren, (das Programm zieht sich die restlichen Infos selbstständig) und die Quelle per Click'n'Drop in den Text einfügen. Fertig ist die Quelleneinbindung in dem für uns in den Naturwissenschaften geforderte APA-Stil inkl. einem formatierten Quellenverzeichnis.
 
-#### Zeichenprogramm für biol. Moleküle
 
+#### Zeichenprogramm für Moleküle
+
+https://www.acdlabs.com/resources/freeware/chemsketch/
 ChemDraw
 
 #### Teamarbeit
@@ -74,16 +86,16 @@ Aber: Es ist auch kein Hexenwerk! Und kleine Skripte von 10-20 Zeilen sind schne
 
 Kleine Anfänger-Tipps, die eigentlich für alle Programmiersprachen gelten:
 
-1. Es ist eine Sprache, die gesprochen (bzw. geschrieben) werden muss, um sie zu behalten; sonst verlernt man sie.
+1. Es ist eine Sprache! Sie muss gesprochen (bzw. geschrieben) werden, um sie zu behalten; sonst verlernt man sie.
 2. Ein Computer ist geduldig. Spielt rum! Probiert Sachen aus! Notfalls könnt ihr immer noch alles wieder löschen und ein altes bewährtes Skript nehmen.
 3. Tut euch selbst einen Gefallen und dokumentiert euren Code. Was heute noch ein vollkommen logischer Aufbau ist, verliert bis übermorgen jeden Zusammenhang.
-4. Sehr wichig bei der Arbeit mit Datensätzen: Arbeitet niemals direkt an euren Rohdaten! Kopiert sie und schafft Backups! Eine gelöschter Datensatz ist schlecht, aber Datensatz, dessen Inhalt ihr nicht mehr vertrauen könnt, ist eine Qual!
+4. Sehr wichig bei der Arbeit mit Datensätzen: Arbeitet niemals direkt an euren Rohdaten! Kopiert sie und schafft Backups! Eine gelöschter Datensatz ist schlecht, aber einem Datensatz, dessen Inhalt ihr nicht mehr vertrauen könnt, ist eine Qual!
 
 
 
-#### R-Programming
+#### Die Programmiersprache "R"
 
-Die Sprache "R" ist von Biologen für Biologen geschrieben worden. Mit ihr kann man zwar keine fanzy Spiele programmieren, aber sehr einfach große Datenmengen auswerten und unkompliziert wissenschaftlich valide Grafiken erstellen. Die genutzten, kleinen Zusatzprogramme, sog. "Packages" sind alle Open-Source und häufig auch sehr gut dokumentiert.
+Die Sprache "R" ist von Biologen für Biologen geschrieben worden und dem entsprechend ausgerichtet. Mit ihr kann man zwar keine fanzy Spiele programmieren, aber sehr einfach große Datenmengen auswerten und unkompliziert wissenschaftlich valide Grafiken erstellen, ohne dafür Informatik studiert zu haben. Die genutzten, kleinen Zusatzprogramme, sog. "Packages" sind alle Open-Source und häufig auch sehr gut dokumentiert.
 Im folgenden Link findet ihr ein kurzes Video, in dem die Installation der Sprache "R" und dem Programm "RStudio" beschrieben wird. Das eine stellt die Syntax der Sprache bereit und im Studio bekommt ihr eine sehr gute Umgebung gestellt, um zu programmieren.
 
 %Platzhalter YT-Link
@@ -92,11 +104,16 @@ Wenn RStudio bei euch läuft und ihr noch so gar keine Berührung mit Programmie
 
 Für alle, die lieber in Ruhe aus einem Dokument heraus lernen gibt es unter https://bookdown.org/ndphillips/YaRrr/ eine gute Einführung.
 
-Eine gute Quelle für Diagramme, Plots usw. ist eigentlich immer http://www.sthda.com/english/wiki/data-visualization. Hier findet ihr Code-Beispiele vom einfachen plot()-Befehl bis hin zur vollen Ladung vom Package "GGPlot2". Für eine umfangreichere Nutzung von R empfiehlt zur Datenauswertung das "Tidyvers", wozu ebenfalls STHDA Einführungen anbietet.
+Eine gute Quelle für Diagramme, Plots usw. ist eigentlich immer www.sthda.com/english/wiki/data-visualization. Hier findet ihr Code-Beispiele vom einfachen plot()-Befehl bis hin zur vollen Ladung vom Package "GGPlot2". Für erfahrene Nutzer und Anwendungen außerhalb des Studienrahmens von R empfiehlt sich zur Datenauswertung das volle "Tidyvers" (www.tidyverse.org), wozu STHDA ebenfalls eine Einführungen anbietet.
 
 #### Python
 
+Hier fehlt noch eine wissende Person im Projekt! Also wenn jemand mit Python Erfahrung hat und gute Tutorials oder Tipps auf Lager hat, darf sich gern beteiligen.
+Unter der Adresse http://rosalind.info/problems/list-view/?location=python-village gibt es eine Einführung, zu denen aber noch keine Erfahrungswerte vorliegen.
+
 #### Rosalind
+
+Rosalind ist die perfekte Anlaufstelle, um seine Programmierskills anzuwenden und zu erweitern. Die Wahl der Sprache steht euch hierbei komplett frei! In der Stronghold erwarten euch Aufgaben mit schrittweise ansteigendem Schwierigkeitsgrad von "Zähle alle Basen in der Sequenz" bis zu "Multi-DNA-Alignments" oder Auswertung einer MS-Profils für die Peptid-Analyse. In der Armory gibt es Übungen mit bereits existierenden Programmen und in der Algorithmik-Sektion könnt ihr euch etwas am mathematischen Ansatz der Probleme versuchen.
 
 #### Markdown
 
@@ -113,9 +130,6 @@ Hinweise in den Kits
 # Fachspezifische Programme und Websites
 ## Proteinanalyik 
 
-### Strukturdatenbanken
-NIST
-https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_frame_disp.cgi?sdbsno=3391
 
 ### ImageLab von BioRad
 ### Protein-Strukturviewer 
@@ -126,7 +140,7 @@ PyMol, RasWin
 
 STHDA
 
-### Wahlfächer
+
 
 
 
