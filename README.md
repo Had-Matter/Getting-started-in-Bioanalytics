@@ -6,7 +6,7 @@ Da es unmöglich ist, alle Themengebiete der Biologie und Analytik vollständig 
 werden hier nur Links und Programme angegeben, die ihr auch wirklich für das Studium in Coburg 
 gebrauchen könnt oder Kontext zu den Vorlesungsinhalten bieten. 
 Bei fast allen ist der Übergang sowieso fließend und man kann fast immer 
-bereits einen Ausblick über die Studieninhalte hinaus erhalten.
+bereits einen Ausblick über die Studieninhalte hinaus erhalten. Falls ihr Anregungen, Kritik habt oder Ideen für weitere wichtige Punkte hat, könnt ihr uns gern über  "Issues" (oben in der Leiste) eine Nachricht schreiben. Demnächst werden wir auch eine Mail zu Verfügung stellen, über der ihr uns erreichen könnt.
 
 _kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiven Eindrücken. Wir sind auch keine MAs der Hochschule Coburg, sondern selbst Studenten._
 
@@ -21,7 +21,7 @@ Viel Spaß und Erfolg wünschen euch Sinco6 und Had-Matter.
 2. Ihr sitzt jetzt 3 Jahre lang im gleichen Boot. Rauft euch zusammen, tauscht euch aus und unterstützt andere. 
 3. Andere Studenten sind kein Maßstab. Allein, in Gruppen; morgens, mitten in der Nacht; zu Hause, in der Hochschule. Lernt und arbeitet in eurer Geschwindigkeit und eurem Stil. 
 4. Fangt früh an, die Folien aufzuarbeiten. Jaaa. Das sagen sie alle. Und dummerweise haben sie auch recht damit. Stumpf auswendig lernen wird für die meisten von euch nicht funktionieren, also müsst ihr es verstanden haben, um damit gedankliche Brücken bauen zu können. Auch dies kann Zeit kosten, ist aber wertvoller für das weitere Studium. 
-5. Lernt Englisch, wenn ihr nicht gut darin seid. So könnt ihr auch abseits von schlechten Folien und den seltenen guten deutschen Büchern arbeiten.
+5. Lernt Englisch, wenn ihr nicht gut darin seid. So könnt ihr auch abseits von schlechten Folien und den seltenen guten deutschen Büchern lesen.
 
 ### Stundenplan erstellen
 
@@ -36,12 +36,12 @@ Aber man muss sich ja die Arbeit nicht schwerer machen als es notwendig ist :)
 
 #### Recherche
 
-Für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind nie zitierfähig!, stellen aber teilweise Links zu Papern zur Verfügung) ... \
-der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick) \
-für Analytik-(Methoden), Chemie, Biologie auf deutsch ganz klar: www.chemgapedia.de/ \
-für Infos zu Bioanalytik-Methoden auf deutsch: https://www.medizinische-genetik.de/index.php?id=methoden \
-für alles Zell- und Molekularbiologische auf englisch: www.nature.com/scitable/topics (immer up-to-date und sehr fundiert) \
-als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos: https://www.proteinatlas.org/ \
+Seiten für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind nie zitierfähig!, stellen aber teilweise Links zu Papern zur Verfügung) ... \
+- der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick) \
+- für Analytik-(Methoden), Chemie, Biologie auf deutsch ganz klar: www.chemgapedia.de/ \
+- für Infos zu Bioanalytik-Methoden auf deutsch: https://www.medizinische-genetik.de/index.php?id=methoden \
+- für alles Zell- und Molekularbiologische auf englisch: www.nature.com/scitable/topics (immer up-to-date und sehr fundiert) \
+- als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos: https://www.proteinatlas.org/ \
 
 
 #### Datenbanken mit chem. Strukturen und deren Spektren:
@@ -67,13 +67,13 @@ Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erst
 #### Zeichenprogramm für Moleküle
 
 https://www.acdlabs.com/resources/freeware/chemsketch/ \
-ChemDraw \
+ChemDraw 
 
 #### Teamarbeit
 
 StudySMARTER \
 Github \
-Microsoft Office Online \
+Microsoft Office Online 
 
 
 ## "Programmieren ist der Vorgang, bei dem man mit der linken Hand öffnende und der rechten Hand schließende Klammern zählt"
@@ -100,7 +100,7 @@ Im folgenden Link findet ihr ein kurzes Video, in dem die Installation der Sprac
 
 %Platzhalter YT-Link
 
-Wenn RStudio bei euch läuft und ihr noch so gar keine Berührung mit Programmierung usw. hatten, kann ich euch sehr das SWIRL-Package ans Herz legen. Hier werdet ihr mit interaktiven Übungen in die Sprache und ihrer Möglichketien eingeführt. Wenn ihr es nach der Anleitung installiert habt, startet ihr am besten gleich mit der allgemeinen Übung "R Programming". https://swirlstats.com/students.html
+Wenn RStudio bei euch läuft und ihr noch so gar keine Berührung mit Programmierung usw. hatten, kann ich euch sehr das SWIRL-Package ans Herz legen. Hier werdet ihr mit interaktiven Übungen in die Sprache und ihrer Möglichketien eingeführt. Wenn ihr es nach der Anleitung installiert habt, startet ihr am besten gleich mit der allgemeinen Übung "R Programming". Die Einrichtung und der Start ist unter https://swirlstats.com/students.html beschrieben.
 
 Für alle, die lieber in Ruhe aus einem Dokument heraus lernen gibt es unter https://bookdown.org/ndphillips/YaRrr/ eine gute Einführung.
 
@@ -123,7 +123,7 @@ Ein kleines Cheat Sheet für die Syntax findet sich unter folgendem Link: https:
 # Laborpraktika
 
 Pisst die TAs nicht an \
-Hinweise in den Kits \
+Hinweise in den Kits 
 
 
 
