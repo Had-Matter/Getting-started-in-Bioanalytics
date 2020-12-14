@@ -1,4 +1,4 @@
-﻿Willkommen zum inoffiziellen Bioanalytik-Repo zum Bachelor-Studiengang in Coburg.
+Willkommen im inoffiziellen Bioanalytik-Repository zum Bachelor-Studiengang in Coburg.
 Hier findet ihr Tutorials eingeteilt nach unterschiedlichen Themengebieten und 
 Tipps und Anmerkungen zu ein paar spezielleren Sachen in unserem Coburger Studiengang.
 
@@ -36,44 +36,44 @@ Aber man muss sich ja die Arbeit nicht schwerer machen als es notwendig ist :)
 
 #### Recherche
 
-für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind nie zitierfähig!, stellen aber teilweise Links zu Papern zur Verfügung)
-der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick)
-für Analytik-(Methoden), Chemie, Biologie auf deutsch ganz klar: www.chemgapedia.de/
-ebenfalls Analytik-Methoden auf deutsch: https://www.medizinische-genetik.de/index.php?id=methoden
-für alles Zell- und Molekularbiologische auf englisch: www.nature.com/scitable/topics (immer up-to-date und sehr fundiert)
-als Kontextlieferant für alles Biologische  mit vielen Abbildungen und Fotos: https://www.proteinatlas.org/
+Für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind nie zitierfähig!, stellen aber teilweise Links zu Papern zur Verfügung) ... \
+der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick) \
+für Analytik-(Methoden), Chemie, Biologie auf deutsch ganz klar: www.chemgapedia.de/ \
+für Infos zu Bioanalytik-Methoden auf deutsch: https://www.medizinische-genetik.de/index.php?id=methoden \
+für alles Zell- und Molekularbiologische auf englisch: www.nature.com/scitable/topics (immer up-to-date und sehr fundiert) \
+als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos: https://www.proteinatlas.org/ \
 
 
-chem. Strukturen und deren Spektren:
+#### Datenbanken mit chem. Strukturen und deren Spektren:
 
-https://webbook.nist.gov/chemistry/name-ser/
-https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi
+https://webbook.nist.gov/chemistry/name-ser/ \
+https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi \
 
-falls euch mal die (englischen) Worte fehlen: https://www.deepl.com/de/translator
+falls euch mal die (englischen) Worte fehlen: \
+
+https://www.deepl.com/de/translator \
 
 
 #### Textverarbeitung
 Wer ausreichend unter Word und seinen Derivaten gelitten und keine Scheu vor neuen Sachen hat, sollte sich unbedingt Latex ansehen.
-Hier bekommt ihr ne halb-automatisierte Formatierung eures kompletten Textes. Am Textanfang wird alles einmal festgelegt, wie z.B. Kopf/Fußzeilen, Seiten-Nummerierung, Tabellen und Abbildungsanordnung und wird dann für alle Objekte übernommen. Spezielle Einstellungen für einzelne Elemente können aber natürlich immer noch direkt vor Ort vorgenommen werden, ohne die anderen zu beeinflussen. Auch Referenzen zu Tabellen und Abbildungen sind deutlich komfortabler zu machen als in z.B. Word.
+Hier bekommt ihr ne halb-automatisierte Formatierung eures kompletten Textes. Am Textanfang wird alles einmal festgelegt, wie z.B. Kopf/Fußzeilen, Seiten-Nummerierung, Tabellen und Abbildungsanordnung usw. und wird dann für alle Objekte übernommen. Spezielle Einstellungen für einzelne Elemente können aber natürlich immer noch direkt vor Ort vorgenommen werden, ohne die anderen zu beeinflussen. Auch Referenzen zu Tabellen und Abbildungen sind deutlich komfortabler zu machen als in z.B. Word.
 Steht das Template ersteinmal für eine Formatierung, kann diese konstant für alle weiteren Texte übernommen werden. 
 Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf Abb. oder Tabellen bei großen Texten.
 
 #### Literaturprogramme
-Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erstellen von perfekt formatierten Querverweisen und Literaturverzeichnissen in allen großen Textverabeitungsprogrammen. Einfach die ISBN, DOI reinkopieren, (das Programm zieht sich die restlichen Infos selbstständig) und die Quelle per Click'n'Drop in den Text einfügen. Fertig ist die Quelleneinbindung in dem für uns in den Naturwissenschaften geforderte APA-Stil inkl. einem formatierten Quellenverzeichnis.
+Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erstellen von perfekt formatierten Querverweisen und Literaturverzeichnissen in allen großen Textverabeitungsprogrammen. Einfach die ISBN, DOI reinkopieren, (das Programm zieht sich die restlichen Infos selbstständig) und die Quelle per Click'n'Drop in den Text einfügen. Fertig ist die Quelleneinbindung in dem für uns in den Naturwissenschaften geforderte APA-Stil inkl. einem formatierten Quellenverzeichnis. Die Einführungen im Internet wie z.B. unter https://www.citavi.com/media/1337/citavi_6_getting_started.pdf sind eigentlich ausreichend, aber unsere Bib bietet  ebenfalls regelmäßig Kurse an. 
 
 
 #### Zeichenprogramm für Moleküle
 
-https://www.acdlabs.com/resources/freeware/chemsketch/
-ChemDraw
+https://www.acdlabs.com/resources/freeware/chemsketch/ \
+ChemDraw \
 
 #### Teamarbeit
 
-
-
-StudySMARTER \\
-Github \\
-Microsoft Office Online \\
+StudySMARTER \
+Github \
+Microsoft Office Online \
 
 
 ## "Programmieren ist der Vorgang, bei dem man mit der linken Hand öffnende und der rechten Hand schließende Klammern zählt"
@@ -122,8 +122,8 @@ Ein kleines Cheat Sheet für die Syntax findet sich unter folgendem Link: https:
 
 # Laborpraktika
 
-Pisst die TAs nicht an \\
-Hinweise in den Kits
+Pisst die TAs nicht an \
+Hinweise in den Kits \
 
 
 
