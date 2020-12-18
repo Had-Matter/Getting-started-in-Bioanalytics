@@ -8,7 +8,7 @@ gebrauchen könnt oder Kontext zu den Vorlesungsinhalten bieten.
 Bei fast allen ist der Übergang sowieso fließend und man kann fast immer 
 bereits einen Ausblick über die Studieninhalte hinaus erhalten. \
 
-Falls ihr Anregungen, Kritik oder Ideen für weitere wichtige Punkte habt, könnt ihr uns gern über  "Issues" (oben in der Leiste) eine Nachricht schreiben. Demnächst werden wir auch eine Mail zu Verfügung stellen, über der ihr uns erreichen könnt.
+Falls ihr Anregungen, Kritik oder Ideen für weitere wichtige Punkte habt, könnt ihr uns gern über  "Issues" (oben in der Leiste) eine Nachricht schreiben. Demnächst werden wir auch eine Mail zu Verfügung stellen, über die ihr uns erreichen könnt.
 
 _kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiven Eindrücken. Wir sind auch keine MAs der Hochschule Coburg, sondern selbst Studenten._
 
@@ -97,12 +97,12 @@ Kleine Anfänger-Tipps, die eigentlich für alle Programmiersprachen gelten:
 
 #### Die Programmiersprache "R"
 
-Die Sprache "R" ist von Biologen für Biologen geschrieben worden und dem entsprechend ausgerichtet. Mit ihr kann man zwar keine fanzy Spiele programmieren, aber sehr einfach große Datenmengen auswerten und unkompliziert wissenschaftlich valide Grafiken erstellen, ohne dafür Informatik studiert zu haben. Die genutzten, kleinen Zusatzprogramme, sog. "Packages" sind alle Open-Source und häufig auch sehr gut dokumentiert.
+Die Sprache "R" ist von Biologen für Biologen geschrieben worden und dem entsprechend ausgerichtet. Mit ihr kann man zwar keine fancy Spiele programmieren, aber sehr einfach große Datenmengen auswerten und unkompliziert wissenschaftlich valide Grafiken erstellen, ohne dafür Informatik studiert zu haben. Die genutzten, kleinen Zusatzprogramme, sog. "Packages" sind alle Open-Source und häufig auch sehr gut dokumentiert.
 Im folgenden Link findet ihr ein kurzes Video, in dem die Installation der Sprache "R" und dem Programm "RStudio" beschrieben wird. Das eine stellt die Syntax der Sprache bereit und im Studio bekommt ihr eine sehr gute Umgebung gestellt, um zu programmieren.
 
 %Platzhalter YT-Link
 
-Wenn RStudio bei euch läuft und ihr noch so gar keine Berührung mit Programmierung usw. hatten, kann ich euch sehr das SWIRL-Package ans Herz legen. Hier werdet ihr mit interaktiven Übungen in die Sprache und ihrer Möglichketien eingeführt. Wenn ihr es nach der Anleitung installiert habt, startet ihr am besten gleich mit der allgemeinen Übung "R Programming". Die Einrichtung und der Start ist unter https://swirlstats.com/students.html beschrieben.
+Wenn RStudio bei euch läuft und ihr noch so gar keine Berührung mit Programmierung usw. hatten, kann ich euch sehr das SWIRL-Package ans Herz legen. Hier werdet ihr mit interaktiven Übungen in die Sprache und ihrer Möglichkeiten eingeführt. Wenn ihr es nach der Anleitung installiert habt, startet ihr am besten gleich mit der allgemeinen Übung "R Programming". Die Einrichtung und der Start ist unter https://swirlstats.com/students.html beschrieben.
 
 Für alle, die lieber in Ruhe aus einem Dokument heraus lernen gibt es unter https://bookdown.org/ndphillips/YaRrr/ eine gute Einführung.
 
