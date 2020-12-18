@@ -6,7 +6,7 @@ Da es unmöglich ist, alle Themengebiete der Biologie und Analytik vollständig 
 werden hier nur Links und Programme angegeben, die ihr auch wirklich für das Studium in Coburg 
 gebrauchen könnt oder Kontext zu den Vorlesungsinhalten bieten. 
 Bei fast allen ist der Übergang sowieso fließend und man kann fast immer 
-bereits einen Ausblick über die Studieninhalte hinaus erhalten. \
+bereits einen Ausblick über die Studieninhalte hinaus erhalten. 
 
 Falls ihr Anregungen, Kritik oder Ideen für weitere wichtige Punkte habt, könnt ihr uns gern über  "Issues" (oben in der Leiste) eine Nachricht schreiben. Demnächst werden wir auch eine Mail zu Verfügung stellen, über die ihr uns erreichen könnt.
 
@@ -38,12 +38,12 @@ Aber man muss sich ja die Arbeit nicht schwerer machen als es notwendig ist :)
 
 #### Recherche
 
-Seiten für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind nie zitierfähig!, stellen aber teilweise Links zu Papern zur Verfügung) ... \
-- der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick) \
-- für Analytik-(Methoden), Chemie, Biologie auf deutsch ganz klar: www.chemgapedia.de/ \
-- für Infos zu Bioanalytik-Methoden auf deutsch: https://www.medizinische-genetik.de/index.php?id=methoden \
-- für alles Zell- und Molekularbiologische auf englisch: www.nature.com/scitable/topics (immer up-to-date und sehr fundiert) \
-- als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos: https://www.proteinatlas.org/ \
+Seiten für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind nie zitierfähig!, stellen aber teilweise Links zu Papern zur Verfügung) ... 
+- der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick) 
+- für Analytik-(Methoden), Chemie, Biologie auf deutsch ganz klar: www.chemgapedia.de/ 
+- für Infos zu Bioanalytik-Methoden auf deutsch: https://www.medizinische-genetik.de/index.php?id=methoden 
+- für alles Zell- und Molekularbiologische auf englisch: www.nature.com/scitable/topics (immer up-to-date und sehr fundiert) 
+- als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos: https://www.proteinatlas.org/ 
 
 
 #### Datenbanken mit chem. Strukturen und deren Spektren:
@@ -98,7 +98,7 @@ Kleine Anfänger-Tipps, die eigentlich für alle Programmiersprachen gelten:
 #### Die Programmiersprache "R"
 
 Die Sprache "R" ist von Biologen für Biologen geschrieben worden und dem entsprechend ausgerichtet. Mit ihr kann man zwar keine fancy Spiele programmieren, aber sehr einfach große Datenmengen auswerten und unkompliziert wissenschaftlich valide Grafiken erstellen, ohne dafür Informatik studiert zu haben. Die genutzten, kleinen Zusatzprogramme, sog. "Packages" sind alle Open-Source und häufig auch sehr gut dokumentiert.
-Im folgenden Link findet ihr ein kurzes Video, in dem die Installation der Sprache "R" und dem Programm "RStudio" beschrieben wird. Das eine stellt die Syntax der Sprache bereit und im Studio bekommt ihr eine sehr gute Umgebung gestellt, um zu programmieren.
+Im folgenden Link findet ihr ein kurzes Video, in dem die Installation der Sprache "R" und der Arbeitsumgebung "RStudio" beschrieben wird. 
 
 %Platzhalter YT-Link
 
@@ -124,8 +124,8 @@ Ein kleines Cheat Sheet für die Syntax findet sich unter folgendem Link: https:
 
 # Laborpraktika
 
-Pisst die TAs nicht an \
-Hinweise in den Kits 
+- Pisst die TAs nicht an 
+- Hinweise in den Kits 
 
 
 
