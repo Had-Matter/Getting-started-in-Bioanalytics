@@ -23,7 +23,7 @@ Viel Spaß und Erfolg wünschen euch Sinco6 und Had-Matter.
 2. Ihr sitzt jetzt 3 Jahre lang im gleichen Boot. Rauft euch zusammen, tauscht euch aus und unterstützt andere. 
 3. Andere Studenten sind kein Maßstab. Allein, in Gruppen; morgens, mitten in der Nacht; zu Hause, in der Hochschule. Lernt und arbeitet in eurer Geschwindigkeit und eurem Stil. 
 4. Fangt früh an, die Folien aufzuarbeiten. Jaaa. Das sagen sie alle. Und dummerweise haben sie auch recht damit. Stumpf auswendig lernen wird für die meisten von euch nicht funktionieren, also müsst ihr es verstanden haben, um damit gedankliche Brücken bauen zu können. Auch dies kann Zeit kosten, ist aber wertvoller für das weitere Studium. 
-5. Lernt Englisch, wenn ihr nicht gut darin seid. So könnt ihr auch abseits von schlechten Folien und den seltenen guten deutschen Büchern lesen.
+5. Lernt Englisch, wenn ihr nicht gut darin seid. So könnt ihr auch abseits von schlechten Folien und den seltenen guten deutschen Büchern Texte lesen. Besonders Einleitungen von Papern sind immer gute (und zitierfähige!) Quellen für Methoden oder Vorgänge. 
 
 ### Stundenplan erstellen
 
