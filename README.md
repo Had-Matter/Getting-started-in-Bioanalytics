@@ -33,28 +33,26 @@ Auf der Seite gibst du dann deinen Studiengang an. Bei der Studiengruppe nimmt m
 ## "Die Fehler reichen dieses Mal von witzig bis hin zu strafrechtlich relevant"
 ### Textarbeit
 
-Protokolle sind generell bei allen Studenten beliebt (*hust*), aber sie sind nun einmal notwendig, um ein Gefühl für die wissenschaftliche Sprache zu erhalten und sich eine saubere Dokumentation anzugewöhnen..
+Protokolle sind generell bei allen Studenten beliebt (*hust*), aber sie sind nun einmal notwendig, um ein Gefühl für die wissenschaftliche Sprache zu erhalten und sich eine saubere Dokumentation anzugewöhnen.
 Aber man muss sich ja die Arbeit nicht schwerer machen als es notwendig ist :)
 
 #### Recherche
 
-Seiten für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind nie zitierfähig!, stellen aber teilweise Links zu Papern zur Verfügung) ... 
+Seiten für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind **NIE zitierfähig!**, stellen aber teilweise Links zu Papern zur Verfügung) ... 
 - der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick) 
-- für Analytik-(Methoden), Chemie, Biologie auf deutsch ganz klar: www.chemgapedia.de/ 
-- für Infos zu Bioanalytik-Methoden auf deutsch: https://www.medizinische-genetik.de/index.php?id=methoden 
-- für alles Zell- und Molekularbiologische auf englisch: www.nature.com/scitable/topics (immer up-to-date und sehr fundiert) 
-- als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos: https://www.proteinatlas.org/ 
+- [Chemgapedia vom Verlag Wiley-VCH](www.chemgapedia.de "Chemgapedia")für Analytik-(Methoden), Chemie, Biologie auf deutsch 
+- [MVZ](https://www.medizinische-genetik.de/index.php?id=methoden "MVZ Martinsried GmbH") für Infos zu Bioanalytik-Methoden
+- [Scitable von der Nature](https://www.nature.com/scitable/topics/ "Scitable auf Nature Education") für alles Zell- und Molekularbiologische auf englisch mit zitierfähigen Papern
+- [Proteinatlas](https://www.proteinatlas.org/ "proteinatlas.org/") als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos
 
+und falls euch mal die (englischen) Worte fehlen, gibt es den [DeepL-Übersetzer](https://www.deepl.com/de/translator "DeepL-Translator") mit ausgewählten Textbeispielen
 
-#### Datenbanken mit chem. Strukturen und deren Spektren:
+#### Datenbanken mit chem. und biol. Strukturen
 
-https://webbook.nist.gov/chemistry/name-ser/ \
-https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi \
+Neben den üblichen Angaben wie Masse, pH-Wert usw. findet ihr auch reale Messspektren verschiedener Methoden (Hallo Ana II und III)
 
-falls euch mal die (englischen) Worte fehlen: \
-
-https://www.deepl.com/de/translator \
-
+[US-NIST-Datenbank](https://webbook.nist.gov/chemistry/ "NIST")
+[JP-AIST-Datenbank](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi "AIST") 
 
 #### Textverarbeitung
 Wer ausreichend unter Word und seinen Derivaten gelitten und keine Scheu vor neuen Sachen hat, sollte sich unbedingt Latex ansehen.
@@ -65,7 +63,8 @@ Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf 
 #### Literaturprogramme
 Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erstellen von perfekt formatierten Querverweisen und Literaturverzeichnissen in allen großen Textverabeitungsprogrammen. Einfach die ISBN, DOI reinkopieren, (das Programm zieht sich die restlichen Infos selbstständig) und die Quelle per Click'n'Drop in den Text einfügen. Fertig ist die Quelleneinbindung in dem für uns in den Naturwissenschaften geforderte APA-Stil inkl. einem formatierten Quellenverzeichnis. Die Einführungen im Internet wie z.B. unter https://www.citavi.com/media/1337/citavi_6_getting_started.pdf sind eigentlich ausreichend, aber unsere Bib bietet  ebenfalls regelmäßig Kurse an. 
 
-
+#### Achtung Baustelle. Hier entstehen die Bereiche für Molekül-Zeichenprogrammen und TeamArbeit
+<!--
 #### Zeichenprogramm für Moleküle
 
 https://www.acdlabs.com/resources/freeware/chemsketch/ \
@@ -77,7 +76,7 @@ StudySMARTER \
 Github \
 Microsoft Office Online 
 
-
+-->
 ## "Programmieren ist der Vorgang, bei dem man mit der linken Hand öffnende und der rechten Hand schließende Klammern zählt"
 ### Bioinformatik
 
@@ -98,31 +97,32 @@ Kleine Anfänger-Tipps, die eigentlich für alle Programmiersprachen gelten:
 #### Die Programmiersprache "R"
 
 Die Sprache "R" ist von Biologen für Biologen geschrieben worden und dem entsprechend ausgerichtet. Mit ihr kann man zwar keine fancy Spiele programmieren, aber sehr einfach große Datenmengen auswerten und unkompliziert wissenschaftlich valide Grafiken erstellen, ohne dafür Informatik studiert zu haben. Die genutzten, kleinen Zusatzprogramme, sog. "Packages" sind alle Open-Source und häufig auch sehr gut dokumentiert.
-Im folgenden Link findet ihr ein kurzes Video, in dem die Installation der Sprache "R" und der Arbeitsumgebung "RStudio" beschrieben wird. 
 
-%Platzhalter YT-Link
+Mit [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/ "YaRrr! The Pirate’s Guide to R") habt ihr eine Anleitung zur Hand, wie ihr "R" und "RStudio" installiert, Erklärungen zu Programm-Funktionen, installieren von Packages und eingängigen Beschreibungen zu den üblichen statistischen Tests.
 
-Wenn RStudio bei euch läuft und ihr noch so gar keine Berührung mit Programmierung usw. hatten, kann ich euch sehr das SWIRL-Package ans Herz legen. Hier werdet ihr mit interaktiven Übungen in die Sprache und ihrer Möglichkeiten eingeführt. Wenn ihr es nach der Anleitung installiert habt, startet ihr am besten gleich mit der allgemeinen Übung "R Programming". Die Einrichtung und der Start ist unter https://swirlstats.com/students.html beschrieben.
+Wenn RStudio bei euch läuft und ihr noch so gar keine Berührung mit Programmierung usw. hatten, kann ich euch sehr das [SWIRL-Package](https://swirlstats.com/students.html "Installationanleitung zu SWIRL") ans Herz legen. Hier werdet ihr mit interaktiven Übungen in die Sprache und ihrer Möglichkeiten eingeführt. Wenn ihr es nach der Anleitung installiert habt, startet ihr am besten gleich mit der allgemeinen Übung "R Programming".
 
-Für alle, die lieber in Ruhe aus einem Dokument heraus lernen gibt es unter https://bookdown.org/ndphillips/YaRrr/ eine gute Einführung.
+Eine gute Quelle für Diagramme, Plots usw. ist eigentlich immer [STHDA.com](www.sthda.com/english/wiki/data-visualization "STHDA.com"). Hier findet ihr Code-Beispiele vom einfachen plot()-Befehl bis hin zum Package "GGPlot2". Für erfahrene Nutzer von R und Anwendungen außerhalb des Studienrahmens empfiehlt sich zur Datenauswertung das umfangreiche [Tidyvers](www.tidyverse.org "tidyverse.org"), wozu STHDA ebenfalls eine Einführungen anbietet.
 
-Eine gute Quelle für Diagramme, Plots usw. ist eigentlich immer www.sthda.com/english/wiki/data-visualization. Hier findet ihr Code-Beispiele vom einfachen plot()-Befehl bis hin zur vollen Ladung vom Package "GGPlot2". Für erfahrene Nutzer und Anwendungen außerhalb des Studienrahmens von R empfiehlt sich zur Datenauswertung das volle "Tidyvers" (www.tidyverse.org), wozu STHDA ebenfalls eine Einführungen anbietet.
-
+<!--- dieser Teil ist derzeit auskommentiert, weil eigentlich nicht nötig fürs BioA-Studium, also rausschmeißen?
 #### Python
+
 
 Hier fehlt noch eine wissende Person im Projekt! Also wenn jemand mit Python Erfahrung hat und gute Tutorials oder Tipps auf Lager hat, darf sich gern beteiligen.
 Unter der Adresse http://rosalind.info/problems/list-view/?location=python-village gibt es eine Einführung, zu denen aber noch keine Erfahrungswerte vorliegen.
 
 #### Rosalind
 
-Rosalind ist die perfekte Anlaufstelle, um seine Programmierskills anzuwenden und zu erweitern. Die Wahl der Sprache steht euch hierbei komplett frei! In der Stronghold erwarten euch Aufgaben mit schrittweise ansteigendem Schwierigkeitsgrad von "Zähle alle Basen in der Sequenz" bis zu "Multi-DNA-Alignments" oder Auswertung einer MS-Profils für die Peptid-Analyse. In der Armory gibt es Übungen mit bereits existierenden Programmen und in der Algorithmik-Sektion könnt ihr euch etwas am mathematischen Ansatz der Probleme versuchen.
+[Rosalind](http://rosalind.info/problems/locations/) ist die perfekte Anlaufstelle, um seine Programmierskills anzuwenden und zu erweitern. Die Wahl der Sprache steht euch hierbei komplett frei! In der Stronghold erwarten euch Aufgaben mit schrittweise ansteigendem Schwierigkeitsgrad von "Zähle alle Basen in der Sequenz" bis zu "Multi-DNA-Alignments" oder Auswertung einer MS-Profils für die Peptid-Analyse. In der Armory gibt es Übungen mit bereits existierenden Programmen und in der Algorithmik-Sektion könnt ihr euch etwas am mathematischen Ansatz der Probleme versuchen.
+
+alles was zu Python und Rosalind bis hier geschrieben war wird derzeit nicht angezeigt -->
 
 #### Markdown
 
-Für alle, die sich hier beteiligen wollen, kann ich nur "Github" und die "Sprache" Markdown empfehlen.
-Ein kleines Cheat Sheet für die Syntax findet sich unter folgendem Link: https://www.makeuseof.com/tag/printable-markdown-cheat-sheet/
+Für alle, die sich hier beteiligen wollen, kann ich nur "Github" und die "Sprache" Markdown empfehlen, zu der ihr [HIER](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheat-Sheet") eine kurze Übersicht über die Synthax bekommt.
 
-# Laborpraktika
+#Achtung Baustelle! Hier wird derzeit an neuem Content zu den Laborpraktika und fachspezifischen Programmen gearbeitet!
+<!---# Laborpraktika
 
 - Pisst die TAs nicht an 
 - Hinweise in den Kits 
@@ -143,6 +143,8 @@ PyMol, RasWin
 STHDA
 
 which plot for your data https://www.data-to-viz.com/
+
+-->
 
 
 
