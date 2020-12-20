@@ -40,7 +40,7 @@ Aber man muss sich ja die Arbeit nicht schwerer machen als es notwendig ist :)
 
 Seiten für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind **NIE zitierfähig!**, stellen aber teilweise Links zu Papern zur Verfügung) ... 
 - der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick) 
-- [Chemgapedia vom Verlag Wiley-VCH](www.chemgapedia.de "Chemgapedia")für Analytik-(Methoden), Chemie, Biologie auf deutsch 
+- [Chemgapedia vom Verlag Wiley-VCH](www.chemgapedia.de "Chemgapedia") für Analytik-(Methoden), Chemie, Biologie auf deutsch 
 - [MVZ](https://www.medizinische-genetik.de/index.php?id=methoden "MVZ Martinsried GmbH") für Infos zu Bioanalytik-Methoden
 - [Scitable von der Nature](https://www.nature.com/scitable/topics/ "Scitable auf Nature Education") für alles Zell- und Molekularbiologische auf englisch mit zitierfähigen Papern
 - [Proteinatlas](https://www.proteinatlas.org/ "proteinatlas.org/") als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos
@@ -51,8 +51,8 @@ und falls euch mal die (englischen) Worte fehlen, gibt es den [DeepL-Übersetzer
 
 Neben den üblichen Angaben wie Masse, pH-Wert usw. findet ihr auch reale Messspektren verschiedener Methoden (Hallo Ana II und III)
 
-[US-NIST-Datenbank](https://webbook.nist.gov/chemistry/ "NIST")
-[JP-AIST-Datenbank](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi "AIST") 
+- [US-NIST-Datenbank](https://webbook.nist.gov/chemistry/ "NIST")
+- [JP-AIST-Datenbank](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi "AIST") 
 
 #### Textverarbeitung
 Wer ausreichend unter Word und seinen Derivaten gelitten und keine Scheu vor neuen Sachen hat, sollte sich unbedingt Latex ansehen.
