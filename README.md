@@ -10,14 +10,14 @@ bereits einen Ausblick über die Studieninhalte hinaus erhalten.
 
 Falls ihr Anregungen, Kritik oder Ideen für weitere wichtige Punkte habt, könnt ihr uns gern über  "Issues" (oben in der Leiste) eine Nachricht schreiben. Demnächst werden wir auch eine Mail zu Verfügung stellen, über die ihr uns erreichen könnt.
 
-_kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiven Eindrücken. Wir sind auch keine MAs der Hochschule Coburg, sondern selbst Studenten._
+_Kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiven Eindrücken. Wir sind auch keine MAs der Hochschule Coburg, sondern selbst Studenten._
 
 Viel Spaß und Erfolg wünschen euch Sinco6 und Had-Matter.
 
 # Studium
 
 ## "Das hätte auch mal jemand früher sagen können"
-### persönliche Tipps, vielleicht besonders interessant für Erstis und Zweitis
+### Persönliche Tipps, vielleicht besonders interessant für Erstis und Zweitis
 
 1. Entspannt euch. Alles wird gut. Ihr schafft das!
 2. Ihr sitzt jetzt 3 Jahre lang im gleichen Boot. Rauft euch zusammen, tauscht euch aus und unterstützt andere. 
@@ -27,7 +27,7 @@ Viel Spaß und Erfolg wünschen euch Sinco6 und Had-Matter.
 
 ### Stundenplan erstellen
 
-Den Stundenplan kann man auf Primuss erstellen. Dafür gehst du auf der Menüleiste auf "Mein Studium". Beim runterscrollen gibt es dann "Aufrufen von Mein Stundenplan".
+Den Stundenplan kann man auf Primuss erstellen. Dafür gehst du in der Menüleiste auf "Mein Studium". Beim Runterscrollen gibt es dann "Aufrufen von Mein Stundenplan".
 Auf der Seite gibst du dann deinen Studiengang an. Bei der Studiengruppe nimmt man das Semester. Danach kannst du die entsprechenden Kurse auswählen. Den Stundenplan kannst du dann jederzeit über Primuss abrufen oder ausdrucken.
 
 ## "Die Fehler reichen dieses Mal von witzig bis hin zu strafrechtlich relevant"
@@ -126,6 +126,9 @@ Für alle, die sich hier beteiligen wollen, kann ich nur "Github" und die "Sprac
 
 - Pisst die TAs nicht an 
 - Hinweise in den Kits 
+- Vorbereitet ins Praktikum kommen
+- Wissen mit was für Chemikalien man arbeitet -> welche evtl gefährlich sein können
+- Fragen was im Protokoll erwartet wird. Nur Ergebnissprotokoll oder mehr
 
 
 
