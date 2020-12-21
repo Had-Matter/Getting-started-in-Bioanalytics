@@ -8,7 +8,7 @@ gebrauchen könnt oder Kontext zu den Vorlesungsinhalten bieten.
 Bei fast allen ist der Übergang sowieso fließend und man kann fast immer 
 bereits einen Ausblick über die Studieninhalte hinaus erhalten. 
 
-Falls ihr Anregungen, Kritik oder Ideen für weitere wichtige Punkte habt, könnt ihr uns gern über  "Issues" (oben in der Leiste) eine Nachricht schreiben. Demnächst werden wir auch eine Mail zu Verfügung stellen, über die ihr uns erreichen könnt.
+Falls ihr Anregungen, Kritik oder Ideen für weitere wichtige Punkte habt, könnt ihr uns gern über  "Issues" (oben in der Leiste) oder über die Adresse BioA-Repo bei web.de eine Nachricht schicken. Falls ihr natürlich gleich mit einsteigen wollt, könnt ihr auch gleich hier bei Github den Text bearbeiten oder ihr kopiert ihn raus und schickt uns dann die erweiterte Version!
 
 _Kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiven Eindrücken. Wir sind auch keine MAs der Hochschule Coburg, sondern selbst Studenten._
 
@@ -55,26 +55,31 @@ Neben den üblichen Angaben wie Masse, pH-Wert usw. findet ihr auch reale Messsp
 - [JP-AIST-Datenbank](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi "AIST") 
 
 #### Textverarbeitung
+
 Wer ausreichend unter Word und seinen Derivaten gelitten und keine Scheu vor neuen Sachen hat, sollte sich unbedingt Latex ansehen.
 Hier bekommt ihr ne halb-automatisierte Formatierung eures kompletten Textes. Am Textanfang wird alles einmal festgelegt, wie z.B. Kopf/Fußzeilen, Seiten-Nummerierung, Tabellen und Abbildungsanordnung usw. und wird dann für alle Objekte übernommen. Spezielle Einstellungen für einzelne Elemente können aber natürlich immer noch direkt vor Ort vorgenommen werden, ohne die anderen zu beeinflussen. Auch Referenzen zu Tabellen und Abbildungen sind deutlich komfortabler zu machen als in z.B. Word.
 Steht das Template ersteinmal für eine Formatierung, kann diese konstant für alle weiteren Texte übernommen werden. 
 Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf Abb. oder Tabellen bei großen Texten.
 
 #### Literaturprogramme
-Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erstellen von perfekt formatierten Querverweisen und Literaturverzeichnissen in allen großen Textverabeitungsprogrammen. Einfach die ISBN, DOI reinkopieren, (das Programm zieht sich die restlichen Infos selbstständig) und die Quelle per Click'n'Drop in den Text einfügen. Fertig ist die Quelleneinbindung in dem für uns in den Naturwissenschaften geforderte APA-Stil inkl. einem formatierten Quellenverzeichnis. Die Einführungen im Internet wie z.B. unter https://www.citavi.com/media/1337/citavi_6_getting_started.pdf sind eigentlich ausreichend, aber unsere Bib bietet  ebenfalls regelmäßig Kurse an. 
+
+Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erstellen von perfekt formatierten Querverweisen und Literaturverzeichnissen in allen großen Textverabeitungsprogrammen. Einfach die ISBN, DOI reinkopieren, (das Programm zieht sich die restlichen Infos selbstständig) und die Quelle per Click'n'Drop in den Text einfügen. Fertig ist die Quelleneinbindung in dem für uns in den Naturwissenschaften geforderte APA-Stil inkl. einem formatierten Quellenverzeichnis. [Citavi](https://www.citavi.com/media/1337/citavi_6_getting_started.pdf "Citavi-Anleitung") bietet selbst eine gute und ausreichende Einführung, aber unsere Bib bietet ebenfalls regelmäßig Kurse an. 
 
 #### Achtung Baustelle. Hier entstehen die Bereiche für Molekül-Zeichenprogrammen und TeamArbeit
 <!--
-#### Zeichenprogramm für Moleküle
-
-https://www.acdlabs.com/resources/freeware/chemsketch/ \
-ChemDraw 
-
 #### Teamarbeit
 
 StudySMARTER \
 Github \
 Microsoft Office Online 
+
+
+#### Zeichenprogramm für Moleküle
+
+https://www.acdlabs.com/resources/freeware/chemsketch/ \
+ChemDraw 
+
+
 
 -->
 ## "Programmieren ist der Vorgang, bei dem man mit der linken Hand öffnende und der rechten Hand schließende Klammern zählt"
