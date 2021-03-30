@@ -129,11 +129,11 @@ Für alle, die sich hier beteiligen wollen, kann ich nur "Github" und die "Sprac
 #Achtung Baustelle! Hier wird derzeit an neuem Content zu den Laborpraktika und fachspezifischen Programmen gearbeitet!
 <!---# Laborpraktika
 
-- Pisst die TAs nicht an 
-- Hinweise in den Kits 
-- Vorbereitet ins Praktikum kommen
-- Wissen mit was für Chemikalien man arbeitet -> welche evtl gefährlich sein können
-- Fragen was im Protokoll erwartet wird. Nur Ergebnissprotokoll oder mehr
+Bereitet euch gut auf die Praktika vor. Ihr solltet wissen, was ihr da macht und vor allem mit was ihr da arbeitet. Mit einer guten Vorbereitung lässt sich Zeit sparen, die in manchen Praktika eher gering bemessen ist. Die Chemikalien zu kennen, mit denen gearbeitet wird ist wichtig, um zu wissen wann ihr mal mit gefährlicheren Stoffen arbeitet. Wenn ihr was bei der Vorbereitung nicht verstanden habt, fragt nach, denn es zeigt nur, dass ihr euch mit dem Praktikum auseinandergesetzt habt.
+Fragt für jedes Praktikum nach, was in den Protokollen verlangt wird. Die TAs und Professoren legen Wert auf unterschiedliche Sachen und werden nicht jedes mal erzählen, was sie in den Protokollen sehen wollen.
+Die TAs versuchen die Praktika so interessant wie möglich zu machen und geben sich echt Mühe, also benehmt euch dementsprechend und seid respektvoll.
+
+
 
 
 
