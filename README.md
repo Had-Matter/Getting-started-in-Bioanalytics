@@ -56,7 +56,7 @@ Neben den üblichen Angaben wie Masse, pH-Wert usw. findet ihr auch reale Messsp
 
 #### Textverarbeitung
 
-Wer ausreichend unter Word und seinen Derivaten gelitten und keine Scheu vor neuen Sachen hat, sollte sich unbedingt Latex ansehen.
+Wer ausreichend unter Word und seinen Derivaten gelitten und keine Scheu vor neuen Sachen hat, sollte sich unbedingt *Latex* ansehen.
 Hier bekommt ihr ne halb-automatisierte Formatierung eures kompletten Textes. Am Textanfang wird alles einmal festgelegt, wie z.B. Kopf/Fußzeilen, Seiten-Nummerierung, Tabellen und Abbildungsanordnung usw. und wird dann für alle Objekte übernommen. Spezielle Einstellungen für einzelne Elemente können aber natürlich immer noch direkt vor Ort vorgenommen werden, ohne die anderen zu beeinflussen. Auch Referenzen zu Tabellen und Abbildungen sind deutlich komfortabler zu machen als in z.B. Word.
 Steht das Template ersteinmal für eine Formatierung, kann diese konstant für alle weiteren Texte übernommen werden. 
 Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf Abb. oder Tabellen bei großen Texten.
@@ -66,21 +66,21 @@ Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf 
 Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erstellen von perfekt formatierten Querverweisen und Literaturverzeichnissen in allen großen Textverabeitungsprogrammen. Einfach die ISBN, DOI reinkopieren, (das Programm zieht sich die restlichen Infos selbstständig) und die Quelle per Click'n'Drop in den Text einfügen. Fertig ist die Quelleneinbindung in dem für uns in den Naturwissenschaften geforderte APA-Stil inkl. einem formatierten Quellenverzeichnis. [Citavi](https://www.citavi.com/media/1337/citavi_6_getting_started.pdf "Citavi-Anleitung") bietet selbst eine gute und ausreichende Einführung, aber unsere Bib bietet ebenfalls regelmäßig Kurse an. 
 
 
-#### Zeichenprogramm 
+#### Zeichenprogramme 
 
 Abbildungen mit Strukturformeln laufen uns häufiger über den Weg, also sollten wir sie auch zeichnen können.
-Hier kommt [ChemSketch] (https://www.acdlabs.com/resources/freeware/chemsketch/download.php "ChemSketch") von ACDLabs ins Spiel. Neben dem Download findet ihr auf der Seite auch diverse Anleitungen und Tutorials. Für den Download muss man sich registrieren, allerdings ist genau für solche Situationen eure Hochschul-Mail sehr nützlich. 
+Hier kommt [ChemSketch](https://www.acdlabs.com/resources/freeware/chemsketch/download.php "ChemSketch") von ACDLabs ins Spiel. Neben dem Download findet ihr auf der Seite auch diverse Anleitungen und Tutorials. Für den Download muss man sich registrieren, allerdings ist genau für solche Situationen eure Hochschul-Mail sehr nützlich. 
 
 
 ### Teamarbeit und Lernhilfen
 
-- [StudySMARTER] (https://www.studysmarter.de/ "StudySMARTER") bietet nach einer Registrierung recht umfangreiche Lernplattform-Funktionen. Hier könnt ihr Foliensätze hochladen oder selbst Lernfolien mit Abbildungen erstellen. Ebenso wird die Möglichkeit geboten, den Folien Karteikarten zuzuordnen und Multiple-Choice fragen zu erstellen und mit diesen interaktiv zu lernen. Die kompletten Inhalte können mit bestimmten Leuten oder der Allgemeinheit geteilt werden. Teilweise liegen für unsere Kurse schon die ersten Inhalte öffentlich vor. 
+- [StudySMARTER](https://www.studysmarter.de/ "StudySMARTER") bietet nach einer Registrierung recht umfangreiche Lernplattform-Funktionen. Hier könnt ihr Foliensätze hochladen oder selbst Lernfolien mit Abbildungen erstellen. Ebenso wird die Möglichkeit geboten, den Folien Karteikarten zuzuordnen und Multiple-Choice fragen zu erstellen und mit diesen interaktiv zu lernen. Die kompletten Inhalte können mit bestimmten Leuten oder der Allgemeinheit geteilt werden. Teilweise liegen für unsere Kurse schon die ersten Inhalte öffentlich vor. 
 
 Ihr werdet eigentlich von Anfang an, aber spätestens bei den Protokollen, zusammen arbeiten müssen. Auch ohne äußere Umstände sind also Programme zur (Online)-Zusammenarbeit sehr nützlich. Hier bietet sich die Funktion vom *MS-Office*-Paket der Hochschule an.
 
-- Für die Funktion von *MS Office* müsst ihr eurer Dokument bei OneDrive hochladen und könnt dann simultan im gleichen Dokument arbeiten und kommentieren. Dies ist besonders nützlich, wenn ihr Textpassagen aufeinander anpassen oder an unterschiedlichen Stellen des Textes arbeitet. 
+- Für die Funktion von *MS Office* müsst ihr eurer Dokument bei OneDrive hochladen und könnt dann simultan im gleichen Dokument arbeiten und kommentieren. Dies ist besonders nützlich, wenn ihr Textpassagen aufeinander anpassen oder an unterschiedlichen Stellen des Textes arbeitet. [Hier](https://support.microsoft.com/en-us/office/share-a-document-d39f3cd8-0aa0-412f-9a35-1abba926d354#ID0EAABAAA=Windows "Microsoft") gibt es alles auch nochmal als Video. 
 
-- Ein etwas professionelleres System stellt *GitHub* dar. Es erlaubt paralleles Arbeiten an mehreren Dateien mit einer großen Gruppe von Leuten, ist aber deutlich komplizierter und benötigt etwas Einarbeitung, um es effektiv nutzen zu können. In Kombination mit Programmen wie *Github Desktop* stellt es allerdings ein sehr nützliches Werkzeug für z.B. Kontrollen von Abschlussarbeiten dar. Eine gute Einführung auf englisch findet [ihr] (https://www.youtube.com/watch?v=iv8rSLsi1xo&t=1s "GitHub Tutorial 2020 - Beginner's Training Guide").
+- Ein etwas professionelleres System stellt *GitHub* dar. Es erlaubt paralleles Arbeiten an mehreren Dateien mit einer großen Gruppe von Leuten, ist aber deutlich komplizierter und benötigt etwas Einarbeitung, um es effektiv nutzen zu können. In Kombination mit Programmen wie *Github Desktop* stellt es allerdings ein sehr nützliches Werkzeug für z.B. Kontrollen von Abschlussarbeiten dar. Eine gute Einführung auf englisch findet ihr [hier](https://www.youtube.com/watch?v=iv8rSLsi1xo&t=1s "GitHub Tutorial 2020 - Beginner's Training Guide").
 
 
 <!--
