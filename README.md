@@ -17,7 +17,7 @@ Viel Spaß und Erfolg wünschen euch Sinco6 und Had-Matter.
 # Studium
 
 ## "Das hätte auch mal jemand früher sagen können"
-### Persönliche Tipps, vielleicht besonders interessant für Erstis und Zweitis
+### Persönliche Tipps für die ersten Schritte
 
 1. Entspannt euch. Alles wird gut. Ihr schafft das!
 2. Ihr sitzt jetzt 3 Jahre lang im gleichen Boot. Rauft euch zusammen, tauscht euch aus und unterstützt andere. 
@@ -65,22 +65,27 @@ Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf 
 
 Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erstellen von perfekt formatierten Querverweisen und Literaturverzeichnissen in allen großen Textverabeitungsprogrammen. Einfach die ISBN, DOI reinkopieren, (das Programm zieht sich die restlichen Infos selbstständig) und die Quelle per Click'n'Drop in den Text einfügen. Fertig ist die Quelleneinbindung in dem für uns in den Naturwissenschaften geforderte APA-Stil inkl. einem formatierten Quellenverzeichnis. [Citavi](https://www.citavi.com/media/1337/citavi_6_getting_started.pdf "Citavi-Anleitung") bietet selbst eine gute und ausreichende Einführung, aber unsere Bib bietet ebenfalls regelmäßig Kurse an. 
 
-#### Achtung Baustelle. Hier entstehen die Bereiche für Molekül-Zeichenprogrammen und TeamArbeit
+
+#### Zeichenprogramm 
+
+Abbildungen mit Strukturformeln laufen uns häufiger über den Weg, also sollten wir sie auch zeichnen können.
+Hier kommt [ChemSketch] (https://www.acdlabs.com/resources/freeware/chemsketch/download.php "ChemSketch") von ACDLabs ins Spiel. Neben dem Download findet ihr auf der Seite auch diverse Anleitungen und Tutorials. Für den Download muss man sich registrieren, allerdings ist genau für solche Situationen eure Hochschul-Mail sehr nützlich. 
+
+
+### Teamarbeit und Lernhilfen
+
+- [StudySMARTER] (https://www.studysmarter.de/ "StudySMARTER") bietet nach einer Registrierung recht umfangreiche Lernplattform-Funktionen. Hier könnt ihr Foliensätze hochladen oder selbst Lernfolien mit Abbildungen erstellen. Ebenso wird die Möglichkeit geboten, den Folien Karteikarten zuzuordnen und Multiple-Choice fragen zu erstellen und mit diesen interaktiv zu lernen. Die kompletten Inhalte können mit bestimmten Leuten oder der Allgemeinheit geteilt werden. Teilweise liegen für unsere Kurse schon die ersten Inhalte öffentlich vor. 
+
+Ihr werdet eigentlich von Anfang an, aber spätestens bei den Protokollen, zusammen arbeiten müssen. Auch ohne äußere Umstände sind also Programme zur (Online)-Zusammenarbeit sehr nützlich. Hier bietet sich die Funktion vom *MS-Office*-Paket der Hochschule an.
+
+- Für die Funktion von *MS Office* müsst ihr eurer Dokument bei OneDrive hochladen und könnt dann simultan im gleichen Dokument arbeiten und kommentieren. Dies ist besonders nützlich, wenn ihr Textpassagen aufeinander anpassen oder an unterschiedlichen Stellen des Textes arbeitet. 
+
+- Ein etwas professionelleres System stellt *GitHub* dar. Es erlaubt paralleles Arbeiten an mehreren Dateien mit einer großen Gruppe von Leuten, ist aber deutlich komplizierter und benötigt etwas Einarbeitung, um es effektiv nutzen zu können. In Kombination mit Programmen wie *Github Desktop* stellt es allerdings ein sehr nützliches Werkzeug für z.B. Kontrollen von Abschlussarbeiten dar. Eine gute Einführung auf englisch findet [ihr] (https://www.youtube.com/watch?v=iv8rSLsi1xo&t=1s "GitHub Tutorial 2020 - Beginner's Training Guide").
+
+
 <!--
-#### Teamarbeit
 
-StudySMARTER \
-Github \
-Microsoft Office Online 
-
-
-#### Zeichenprogramm für Moleküle
-
-https://www.acdlabs.com/resources/freeware/chemsketch/ \
-ChemDraw 
-
-
-
+Dont mind me. Im just a comment
 -->
 ## "Programmieren ist der Vorgang, bei dem man mit der linken Hand öffnende und der rechten Hand schließende Klammern zählt"
 ### Bioinformatik
