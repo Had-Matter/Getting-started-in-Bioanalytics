@@ -87,6 +87,16 @@ Ihr werdet eigentlich von Anfang an, aber spätestens bei den Protokollen, zusam
 
 Dont mind me. Im just a comment
 -->
+
+# Praktika
+
+Bereitet euch gut auf die Praktika vor. Ihr solltet wissen, was ihr da macht und vor allem mit was ihr da arbeitet. Mit einer guten Vorbereitung lässt sich Zeit sparen, die in manchen Praktika eher gering bemessen ist. Die Chemikalien zu kennen, mit denen gearbeitet wird ist wichtig, um zu wissen wann ihr mal mit gefährlicheren Stoffen arbeitet. Wenn ihr was bei der Vorbereitung nicht verstanden habt, fragt nach, denn es zeigt nur, dass ihr euch mit dem Praktikum auseinandergesetzt habt.
+Fragt für jedes Praktikum nach, was in den Protokollen verlangt wird. Die TAs und Professoren legen Wert auf unterschiedliche Sachen und werden nicht jedes mal erzählen, was sie in den Protokollen sehen wollen. Nachfragen hilft auch da ungemein und kann Nacharbeit oder gar ein Kolloqium ersparen. 
+
+Da es da in einer der letzten Jahrgänge Irritationen gab: *Die TAs versuchen die Praktika so interessant wie möglich zu machen und geben sich echt Mühe, also benehmt euch dementsprechend und seid respektvoll. Es sind schließlich eure Kollegen.* 
+
+
+
 ## "Programmieren ist der Vorgang, bei dem man mit der linken Hand öffnende und der rechten Hand schließende Klammern zählt"
 ### Bioinformatik
 
@@ -114,6 +124,15 @@ Wenn RStudio bei euch läuft und ihr noch so gar keine Berührung mit Programmie
 
 Eine gute Quelle für Diagramme, Plots usw. ist eigentlich immer [STHDA.com](www.sthda.com/english/wiki/data-visualization "STHDA.com"). Hier findet ihr Code-Beispiele vom einfachen plot()-Befehl bis hin zum Package "GGPlot2". Für erfahrene Nutzer von R und Anwendungen außerhalb des Studienrahmens empfiehlt sich zur Datenauswertung das umfangreiche [Tidyvers](www.tidyverse.org "tidyverse.org"), wozu STHDA ebenfalls eine Einführungen anbietet.
 
+
+
+#### Markdown
+
+Für alle, die sich hier beteiligen wollen, kann ich nur "Github" und die "Sprache" Markdown empfehlen, zu der ihr [HIER](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheat-Sheet") eine kurze Übersicht über die Synthax bekommt.
+
+#Achtung Baustelle! Hier wird derzeit an neuem Content zu fachspezifischen Programmen gearbeitet!
+
+
 <!--- dieser Teil ist derzeit auskommentiert, weil eigentlich nicht nötig fürs BioA-Studium, also rausschmeißen?
 #### Python
 
@@ -125,22 +144,7 @@ Unter der Adresse http://rosalind.info/problems/list-view/?location=python-villa
 
 [Rosalind](http://rosalind.info/problems/locations/) ist die perfekte Anlaufstelle, um seine Programmierskills anzuwenden und zu erweitern. Die Wahl der Sprache steht euch hierbei komplett frei! In der Stronghold erwarten euch Aufgaben mit schrittweise ansteigendem Schwierigkeitsgrad von "Zähle alle Basen in der Sequenz" bis zu "Multi-DNA-Alignments" oder Auswertung einer MS-Profils für die Peptid-Analyse. In der Armory gibt es Übungen mit bereits existierenden Programmen und in der Algorithmik-Sektion könnt ihr euch etwas am mathematischen Ansatz der Probleme versuchen.
 
-alles was zu Python und Rosalind bis hier geschrieben war wird derzeit nicht angezeigt -->
-
-#### Markdown
-
-Für alle, die sich hier beteiligen wollen, kann ich nur "Github" und die "Sprache" Markdown empfehlen, zu der ihr [HIER](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheat-Sheet") eine kurze Übersicht über die Synthax bekommt.
-
-#Achtung Baustelle! Hier wird derzeit an neuem Content zu den Laborpraktika und fachspezifischen Programmen gearbeitet!
-<!---# Laborpraktika
-
-Bereitet euch gut auf die Praktika vor. Ihr solltet wissen, was ihr da macht und vor allem mit was ihr da arbeitet. Mit einer guten Vorbereitung lässt sich Zeit sparen, die in manchen Praktika eher gering bemessen ist. Die Chemikalien zu kennen, mit denen gearbeitet wird ist wichtig, um zu wissen wann ihr mal mit gefährlicheren Stoffen arbeitet. Wenn ihr was bei der Vorbereitung nicht verstanden habt, fragt nach, denn es zeigt nur, dass ihr euch mit dem Praktikum auseinandergesetzt habt.
-Fragt für jedes Praktikum nach, was in den Protokollen verlangt wird. Die TAs und Professoren legen Wert auf unterschiedliche Sachen und werden nicht jedes mal erzählen, was sie in den Protokollen sehen wollen.
-Die TAs versuchen die Praktika so interessant wie möglich zu machen und geben sich echt Mühe, also benehmt euch dementsprechend und seid respektvoll.
-
-
-
-
+alles was zu Python und Rosalind bis hier geschrieben war wird derzeit nicht angezeigt
 
 # Fachspezifische Programme und Websites
 ## Proteinanalyik 
