@@ -43,7 +43,8 @@ Seiten für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten s
 - [Chemgapedia vom Verlag Wiley-VCH](www.chemgapedia.de "Chemgapedia") für Analytik-(Methoden), Chemie, Biologie auf deutsch 
 - [MVZ](https://www.medizinische-genetik.de/index.php?id=methoden "MVZ Martinsried GmbH") für Infos zu Bioanalytik-Methoden
 - [Scitable von der Nature](https://www.nature.com/scitable/topics/ "Scitable auf Nature Education") für alles Zell- und Molekularbiologische auf englisch mit zitierfähigen Papern
-- [Proteinatlas](https://www.proteinatlas.org/ "proteinatlas.org/") als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos
+- [Proteinatlas](https://www.proteinatlas.org/ "proteinatlas.org") als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos
+- [CellSignal](https://www.cellsignal.com/ "CellSignal.com") als Übersicht über Signalnetzwerke und den beteiligten Rezeptoren
 
 und falls euch mal die (englischen) Worte fehlen, gibt es den [DeepL-Übersetzer](https://www.deepl.com/de/translator "DeepL-Translator") mit ausgewählten Textbeispielen
 
@@ -66,10 +67,12 @@ Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf 
 Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erstellen von perfekt formatierten Querverweisen und Literaturverzeichnissen in allen großen Textverabeitungsprogrammen. Einfach die ISBN, DOI reinkopieren, (das Programm zieht sich die restlichen Infos selbstständig) und die Quelle per Click'n'Drop in den Text einfügen. Fertig ist die Quelleneinbindung in dem für uns in den Naturwissenschaften geforderte APA-Stil inkl. einem formatierten Quellenverzeichnis. [Citavi](https://www.citavi.com/media/1337/citavi_6_getting_started.pdf "Citavi-Anleitung") bietet selbst eine gute und ausreichende Einführung, aber unsere Bib bietet ebenfalls regelmäßig Kurse an. 
 
 
-#### Zeichenprogramme für Strukturformeln
+#### Programme für Abbildungen
 
-Abbildungen mit Strukturformeln laufen uns häufiger über den Weg, also sollten wir sie auch zeichnen können.
-Hier kommt [ChemSketch](https://www.acdlabs.com/resources/freeware/chemsketch/download.php "ChemSketch") von ACDLabs ins Spiel. Neben dem Download findet ihr auf der Seite auch diverse Anleitungen und Tutorials. Für den Download muss man sich registrieren, allerdings ist genau für solche Situationen eure Hochschul-Mail sehr nützlich. 
+- Abbildungen mit Strukturformeln laufen uns häufiger über den Weg, also sollten wir sie auch zeichnen können. Hier kommt [ChemSketch](https://www.acdlabs.com/resources/freeware/chemsketch/download.php "ChemSketch") von ACDLabs ins Spiel. Neben dem Download findet ihr auf der Seite auch diverse Anleitungen und Tutorials. Für den Download muss man sich registrieren, allerdings ist genau für solche Situationen eure Hochschul-Mail sehr nützlich. 
+
+- Gel-Bilder aller Art lassen sich angenehm einfach mit [ImageLab](https://www.bio-rad.com/de-de/product/image-lab-software?ID=KRE6P5E8Z "ImageLab") der Firma BioRad auswerten. Hierzu benötigt ihr nur das digitale Bild des Imagers (USB-Stick mitnehmen und direkt bei den TAs fragen ;) ) eures Gels und könnt euch dann eure Banden-Lage automatisch anhand des Marker berechnen lassen. Eine Beschriftungsfunktion liefert das Programm ebenfalls mit. Da das Programm recht vielfälltig einsetzbar ist, gibt es [hier](https://www.youtube.com/watch?v=GYieM9haX7M) eine Einführung mit den relevanten Befehlen für euch. 
+
 
 
 ### Teamarbeit und Lernhilfen
@@ -80,7 +83,7 @@ Ihr werdet eigentlich von Anfang an, aber spätestens bei den Protokollen, zusam
 
 - Für die Funktion von *MS Office* müsst ihr eurer Dokument bei OneDrive hochladen und könnt dann simultan im gleichen Dokument arbeiten und kommentieren. Dies ist besonders nützlich, wenn ihr Textpassagen aufeinander anpassen oder an unterschiedlichen Stellen des Textes arbeitet. [Hier](https://support.microsoft.com/en-us/office/share-a-document-d39f3cd8-0aa0-412f-9a35-1abba926d354#ID0EAABAAA=Windows "Microsoft") gibt es alles auch nochmal als Video. 
 
-- Ein etwas professionelleres System stellt *GitHub* dar. Es erlaubt paralleles Arbeiten an mehreren Dateien mit einer großen Gruppe von Leuten, ist aber deutlich komplizierter und benötigt etwas Einarbeitung, um es effektiv nutzen zu können. In Kombination mit Programmen wie *Github Desktop* stellt es allerdings ein sehr nützliches Werkzeug für z.B. Kontrollen von Abschlussarbeiten dar. Eine gute Einführung auf englisch findet ihr [hier](https://www.youtube.com/watch?v=iv8rSLsi1xo&t=1s "GitHub Tutorial 2020 - Beginner's Training Guide").
+- Ein etwas professionelleres System stellt *GitHub* dar. Es erlaubt paralleles Arbeiten an mehreren Dateien mit einer großen Gruppe von Leuten, ist aber deutlich komplizierter und benötigt etwas Einarbeitung, um es effektiv nutzen zu können. In Kombination mit Programmen wie *Github Desktop* stellt es allerdings ein sehr nützliches Werkzeug für z.B. Kontrollen von Abschlussarbeiten dar. Eine gute Einführung auf Englisch findet ihr [hier](https://www.youtube.com/watch?v=iv8rSLsi1xo&t=1s "GitHub Tutorial 2020 - Beginner's Training Guide").
 
 
 <!--
@@ -130,7 +133,7 @@ Eine gute Quelle für Diagramme, Plots usw. ist eigentlich immer [STHDA.com](www
 
 Für alle, die sich hier beteiligen wollen, kann ich nur "Github" und die "Sprache" Markdown empfehlen, zu der ihr [HIER](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheat-Sheet") eine kurze Übersicht über die Synthax bekommt.
 
-#Achtung Baustelle! Hier wird derzeit an neuem Content zu fachspezifischen Programmen gearbeitet!
+
 
 
 <!--- dieser Teil ist derzeit auskommentiert, weil eigentlich nicht nötig fürs BioA-Studium, also rausschmeißen?
