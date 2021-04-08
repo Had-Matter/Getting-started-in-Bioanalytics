@@ -40,9 +40,13 @@ Aber man muss sich ja die Arbeit nicht schwerer machen als es notwendig ist :)
 
 Seiten für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten selbst sind **NIE zitierfähig!**, stellen aber teilweise Links zu Papern zur Verfügung) ... 
 - der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick) 
-- [Chemgapedia vom Verlag Wiley-VCH](www.chemgapedia.de "Chemgapedia") für Analytik-(Methoden), Chemie, Biologie auf deutsch 
+- [Chemgapedia vom Verlag Wiley-VCH](www.chemgapedia.de "Chemgapedia") für Analytik-(Methoden), Chemie, Biologie auf Deutsch 
 - [MVZ](https://www.medizinische-genetik.de/index.php?id=methoden "MVZ Martinsried GmbH") für Infos zu Bioanalytik-Methoden
+- [Scitable von der Nature](https://www.nature.com/scitable/topics/ "Scitable auf Nature Education") für alles Zell- und Molekularbiologische auf Englisch mit zitierfähigen Papern
+- [Proteinatlas](https://www.proteinatlas.org/ "proteinatlas.org/") als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos
+
 - [CellSignal](https://www.cellsignal.com/ "CellSignal.com") als Übersicht über Signalnetzwerke und den beteiligten Rezeptoren
+
 
 und falls euch mal die (englischen) Worte fehlen, gibt es den [DeepL-Übersetzer](https://www.deepl.com/de/translator "DeepL-Translator") mit ausgewählten Textbeispielen
 
@@ -56,7 +60,7 @@ Neben den üblichen Angaben wie Masse, pH-Wert usw. findet ihr auch reale Messsp
 #### Textverarbeitung
 
 Wer ausreichend unter Word und seinen Derivaten gelitten und keine Scheu vor neuen Sachen hat, sollte sich unbedingt *Latex* ansehen.
-Hier bekommt ihr ne halb-automatisierte Formatierung eures kompletten Textes. Am Textanfang wird alles einmal festgelegt, wie z.B. Kopf/Fußzeilen, Seiten-Nummerierung, Tabellen und Abbildungsanordnung usw. und wird dann für alle Objekte übernommen. Spezielle Einstellungen für einzelne Elemente können aber natürlich immer noch direkt vor Ort vorgenommen werden, ohne die anderen zu beeinflussen. Auch Referenzen zu Tabellen und Abbildungen sind deutlich komfortabler zu machen als in z.B. Word.
+Hier bekommt ihr eine halb-automatisierte Formatierung eures kompletten Textes. Am Textanfang wird alles einmal festgelegt, wie z.B. Kopf/Fußzeilen, Seiten-Nummerierung, Tabellen und Abbildungsanordnung usw. und wird dann für alle Objekte übernommen. Spezielle Einstellungen für einzelne Elemente können aber natürlich immer noch direkt vor Ort vorgenommen werden, ohne die anderen zu beeinflussen. Auch Referenzen zu Tabellen und Abbildungen sind deutlich komfortabler zu machen als in z.B. Word.
 Steht das Template ersteinmal für eine Formatierung, kann diese konstant für alle weiteren Texte übernommen werden. 
 Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf Abb. oder Tabellen bei großen Texten.
 
