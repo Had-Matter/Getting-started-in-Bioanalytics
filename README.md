@@ -42,7 +42,6 @@ Seiten für einen groben Überblick über ein neues Thema (ACHTUNG! Die Seiten s
 - der Klassiker: Wikipedia (die englischen Artikel sind (fast) immmer umfangreicher, also lohnt sich ein Blick) 
 - [Chemgapedia vom Verlag Wiley-VCH](www.chemgapedia.de "Chemgapedia") für Analytik-(Methoden), Chemie, Biologie auf deutsch 
 - [MVZ](https://www.medizinische-genetik.de/index.php?id=methoden "MVZ Martinsried GmbH") für Infos zu Bioanalytik-Methoden
-- [Proteinatlas](https://www.proteinatlas.org/ "proteinatlas.org") als Kontextlieferant für alles Biologische mit vielen Abbildungen und Fotos
 - [CellSignal](https://www.cellsignal.com/ "CellSignal.com") als Übersicht über Signalnetzwerke und den beteiligten Rezeptoren
 
 und falls euch mal die (englischen) Worte fehlen, gibt es den [DeepL-Übersetzer](https://www.deepl.com/de/translator "DeepL-Translator") mit ausgewählten Textbeispielen
