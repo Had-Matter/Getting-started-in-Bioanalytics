@@ -66,7 +66,7 @@ Und es gibt keine springenden Abbildungen oder spontan verlorene Referenzen auf 
 Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erstellen von perfekt formatierten Querverweisen und Literaturverzeichnissen in allen großen Textverabeitungsprogrammen. Einfach die ISBN, DOI reinkopieren, (das Programm zieht sich die restlichen Infos selbstständig) und die Quelle per Click'n'Drop in den Text einfügen. Fertig ist die Quelleneinbindung in dem für uns in den Naturwissenschaften geforderte APA-Stil inkl. einem formatierten Quellenverzeichnis. [Citavi](https://www.citavi.com/media/1337/citavi_6_getting_started.pdf "Citavi-Anleitung") bietet selbst eine gute und ausreichende Einführung, aber unsere Bib bietet ebenfalls regelmäßig Kurse an. 
 
 
-#### Zeichenprogramme 
+#### Zeichenprogramme für Strukturformeln
 
 Abbildungen mit Strukturformeln laufen uns häufiger über den Weg, also sollten wir sie auch zeichnen können.
 Hier kommt [ChemSketch](https://www.acdlabs.com/resources/freeware/chemsketch/download.php "ChemSketch") von ACDLabs ins Spiel. Neben dem Download findet ihr auf der Seite auch diverse Anleitungen und Tutorials. Für den Download muss man sich registrieren, allerdings ist genau für solche Situationen eure Hochschul-Mail sehr nützlich. 
