@@ -8,7 +8,7 @@ gebrauchen könnt oder Kontext zu den Vorlesungsinhalten bieten.
 Bei fast allen ist der Übergang sowieso fließend und man kann fast immer 
 bereits einen Ausblick über die Studieninhalte hinaus erhalten. 
 
-Falls ihr Anregungen, Kritik oder Ideen für weitere wichtige Punkte habt, könnt ihr uns gern über  "Issues" (oben in der Leiste) oder über die Adresse BioA-Repo bei web.de eine Nachricht schicken. Falls ihr natürlich gleich mit einsteigen wollt, könnt ihr auch gleich hier bei Github den Text bearbeiten oder ihr kopiert ihn raus und schickt uns dann die erweiterte Version!
+Falls ihr Anregungen, Kritik oder Ideen für weitere wichtige Punkte habt, könnt ihr uns gern über  "Issues" (oben in der Leiste) oder über die Mail-Adresse BioA-Repo (at) web.de eine Nachricht schicken. Falls ihr natürlich gleich mit einsteigen wollt, könnt ihr auch gleich hier bei Github den Text bearbeiten oder ihr kopiert ihn raus und schickt uns dann die erweiterte Version!
 
 _Kleiner Disclaimer: Alle Angaben basieren auf eigenen Erfahrungen und subjektiven Eindrücken. Wir sind auch keine MAs der Hochschule Coburg, sondern selbst Studenten._
 
