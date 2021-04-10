@@ -77,6 +77,7 @@ Programme wie *Citavi (Win)* oder *Mendeley (Mac)* erlauben automatisiertes Erst
 
 
 
+
 ### Teamarbeit und Lernhilfen
 
 - [StudySMARTER](https://www.studysmarter.de/ "StudySMARTER") bietet nach einer Registrierung recht umfangreiche Lernplattform-Funktionen. Hier könnt ihr Foliensätze hochladen oder selbst Lernfolien mit Abbildungen erstellen. Ebenso wird die Möglichkeit geboten, den Folien Karteikarten zuzuordnen und Multiple-Choice fragen zu erstellen und mit diesen interaktiv zu lernen. Die kompletten Inhalte können mit bestimmten Leuten oder der Allgemeinheit geteilt werden. Teilweise liegen für unsere Kurse schon die ersten Inhalte öffentlich vor. 
@@ -93,7 +94,7 @@ Ihr werdet eigentlich von Anfang an, aber spätestens bei den Protokollen, zusam
 Dont mind me. Im just a comment
 -->
 
-# Praktika
+## Praktika
 
 Bereitet euch gut auf die Praktika vor. Ihr solltet wissen, was ihr da macht und vor allem mit was ihr da arbeitet. Mit einer guten Vorbereitung lässt sich Zeit sparen, die in manchen Praktika eher gering bemessen ist. Die Chemikalien zu kennen, mit denen gearbeitet wird ist wichtig, um zu wissen wann ihr mal mit gefährlicheren Stoffen arbeitet. Wenn ihr was bei der Vorbereitung nicht verstanden habt, fragt nach, denn es zeigt nur, dass ihr euch mit dem Praktikum auseinandergesetzt habt.
 Fragt für jedes Praktikum nach, was in den Protokollen verlangt wird. Die TAs und Professoren legen Wert auf unterschiedliche Sachen und werden nicht jedes mal erzählen, was sie in den Protokollen sehen wollen. Nachfragen hilft auch da ungemein und kann Nacharbeit oder gar ein Kolloqium ersparen. 
@@ -118,7 +119,6 @@ Kleine Anfänger-Tipps, die eigentlich für alle Programmiersprachen gelten:
 4. Sehr wichig bei der Arbeit mit Datensätzen: Arbeitet niemals direkt an euren Rohdaten! Kopiert sie und schafft Backups! Eine gelöschter Datensatz ist schlecht, aber einem Datensatz, dessen Inhalt ihr nicht mehr vertrauen könnt, ist eine Qual!
 
 
-
 #### Die Programmiersprache "R"
 
 Die Sprache "R" ist von Biologen für Biologen geschrieben worden und dem entsprechend ausgerichtet. Mit ihr kann man zwar keine fancy Spiele programmieren, aber sehr einfach große Datenmengen auswerten und unkompliziert wissenschaftlich valide Grafiken erstellen, ohne dafür Informatik studiert zu haben. Die genutzten, kleinen Zusatzprogramme, sog. "Packages" sind alle Open-Source und häufig auch sehr gut dokumentiert.
@@ -134,6 +134,9 @@ Eine gute Quelle für Diagramme, Plots usw. ist eigentlich immer [STHDA.com](www
 #### Markdown
 
 Für alle, die sich hier beteiligen wollen, kann ich nur "Github" und die "Sprache" Markdown empfehlen, zu der ihr [HIER](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheat-Sheet") eine kurze Übersicht über die Synthax bekommt.
+
+
+
 
 
 
